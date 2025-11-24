@@ -55,11 +55,11 @@
 
 ## 🚀 Featured Projects
 
-| Project & Link | Description & Achievements |
+| Project & Link | Role & Description |
 | :--- | :--- |
-| **[Arduino Oscilloscope](https://github.com/StrongThrow/ArduinoOscilloscope)** | **🥇 제8회 임베디드 시스템 경진대회 총장상 수상**<br>• 아두이노 기반 오실로스코프 및 전용 앱 개발<br>• 센서 시뮬레이터 기능 구현으로 사용자 편의성 최적화 |
-| **[Smart Brushing System](https://github.com/StrongThrow/Real-Time-Brushing-Guide-and-Diagnosis-System)** | **🥈 제24회 한국공학대전 원장상 (KETI) 수상**<br>• 실시간 양치 지도 및 진단 시스템<br>• 체계적인 요구사항 분석 및 일정 관리로 완성도 제고 |
-| **[Smart Blackbox](https://github.com/StrongThrow/blackbox-project)** | **🤝 Team Leader & PM**<br>• Git/Notion 도입을 통한 협업 프로세스 구축<br>• BSP, CARLA 등 팀원 간 기술 공유 주도 |
+| **[Arduino Oscilloscope](https://github.com/StrongThrow/ArduinoOscilloscope)** | **👑 Team Leader**<br>**🥇 제8회 임베디드 시스템 경진대회 총장상 수상**<br>• 아두이노 기반 오실로스코프 및 전용 앱 개발<br>• 센서 시뮬레이터 기능 구현으로 사용자 편의성 최적화 |
+| **[Smart Brushing System](https://github.com/StrongThrow/Real-Time-Brushing-Guide-and-Diagnosis-System)** | **👑 Team Leader**<br>**🥇 제24회 한국공학대전 원장상 (KETI) 수상**<br>• **MCU 펌웨어 및 라즈베리파이 개발**<br>• 실시간 양치 지도 및 진단 시스템 구축 |
+| **[Smart Blackbox](https://github.com/StrongThrow/blackbox-project)** | **👑 Team Leader & PM**<br>• **App 개발 및 연동 시스템 구현**<br>• Git/Notion 도입을 통한 협업 프로세스 구축<br>• BSP, CARLA 등 팀원 간 기술 공유 주도 |
 | **STM32 Custom Lib** | *(Coming Soon)* LCD 1602 커스텀 라이브러리 및 배포 예정 |
 
 <br>
@@ -71,8 +71,8 @@
 | **2024.12** | 2024 TU 학생성공 우수사례 공모전 장려상 | 한국공학대학교 |
 | **2024.10** | **제8회 임베디드 시스템 경진대회 총장상** 🥇 | 한국공학대학교 |
 | **2024.10** | 2024 TU 캡스톤 디자인 성과 공모전 우수상 | 한국공학대학교 |
-| **2024.09** | **제24회 한국공학대전 원장상** 🥈 | 한국전자기술연구원 (KETI) |
-| **2024.07** | 2024 ICT 융합 프로젝트 공모전 장려상 | (주)엔티렉스 |
+| **2024.09** | **제24회 한국공학대전 원장상** 🥇 | 한국전자기술연구원 (KETI) |
+| **2024.07** | **2024 ICT 융합 프로젝트 공모전 장려상** 🥉 | (주)엔티렉스 |
 
 <br>
 
