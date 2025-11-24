@@ -60,7 +60,7 @@
 | **[Arduino Oscilloscope](https://github.com/StrongThrow/ArduinoOscilloscope)** | **👑 Team Leader**<br>**🥇 제8회 임베디드 시스템 경진대회 총장상 수상**<br>• 아두이노 기반 오실로스코프 및 전용 앱 개발<br>• 센서 시뮬레이터 기능 구현으로 사용자 편의성 최적화 |
 | **[Smart Brushing System](https://github.com/StrongThrow/Real-Time-Brushing-Guide-and-Diagnosis-System)** | **👑 Team Leader**<br>**🥇 제24회 한국공학대전 원장상 (KETI) 수상**<br>• **MCU 펌웨어 및 라즈베리파이 개발**<br>• 실시간 양치 지도 및 진단 시스템 구축 |
 | **[Smart Blackbox](https://github.com/StrongThrow/blackbox-project)** | **👑 Team Leader & PM**<br>• **App 개발 및 연동 시스템 구현**<br>• Git/Notion 도입을 통한 협업 프로세스 구축<br>• BSP, CARLA 등 팀원 간 기술 공유 주도 |
-| **STM32 Custom Lib(https://github.com/StrongThrow/LCD1602_CustomDot)** | *LCD 1602 커스텀 라이브러리 |
+| **[STM32 LCD1602 Custom Lib](https://github.com/StrongThrow/LCD1602_CustomDot)** | *LCD 1602 커스텀 라이브러리 |
 
 <br>
 
