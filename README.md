@@ -44,6 +44,8 @@
 ### ⚙️ Tools & Communication
 <div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/CAN_Bus-Black?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/BLE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white">
   <img src="https://img.shields.io/badge/UART-Black?style=for-the-badge">
   <img src="https://img.shields.io/badge/I2C-Black?style=for-the-badge">
   <img src="https://img.shields.io/badge/SPI-Black?style=for-the-badge">
@@ -66,11 +68,11 @@
 
 | 수상 연월 | 수상 내역 | 주관/수여 기관 |
 | :---: | :--- | :--- |
-| **2024.10** | **제8회 임베디드 시스템 경진대회 총장상** 🥇 | 한국공학대학교 |
-| **2024.09** | **제24회 한국공학대전 원장상** 🥈 | 한국전자기술연구원 (KETI) |
-| **2024.10** | 2024 TU 캡스톤 디자인 성과 공모전 우수상 | 한국공학대학교 |
-| **2024.07** | 2024 ICT 융합 프로젝트 공모전 장려상 | (주)엔티렉스 |
 | **2024.12** | 2024 TU 학생성공 우수사례 공모전 장려상 | 한국공학대학교 |
+| **2024.10** | **제8회 임베디드 시스템 경진대회 총장상** 🥇 | 한국공학대학교 |
+| **2024.10** | 2024 TU 캡스톤 디자인 성과 공모전 우수상 | 한국공학대학교 |
+| **2024.09** | **제24회 한국공학대전 원장상** 🥈 | 한국전자기술연구원 (KETI) |
+| **2024.07** | 2024 ICT 융합 프로젝트 공모전 장려상 | (주)엔티렉스 |
 
 <br>
 
