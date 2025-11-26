@@ -66,7 +66,7 @@
 
 <br>
 
-### 🏫 Korea Polytechnic University (TU Korea)
+### 🏫 한국공학대학교 (TU Korea)
 > 학부 과정 중 진행한 프로젝트 및 경진대회 수상작입니다.
 
 | Date | Project & Link | Role & Description |
