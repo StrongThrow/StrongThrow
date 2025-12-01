@@ -62,7 +62,7 @@
 | :---: | :--- | :--- |
 | **2025.10** | **[Smart Blackbox](https://github.com/StrongThrow/blackbox-project)** | **👑 Team Leader & PM**<br>• **App 개발 및 연동 시스템 구현**<br>• Git/Notion 도입을 통한 협업 프로세스 구축<br>• BSP, CARLA 등 팀원 간 기술 공유 주도 |
 | **2025.08** | **[IoT Smart Radar & Turret](https://github.com/StrongThrow/RADAR_TURRET)** | **👑 Team Leader**<br>• STM32(FreeRTOS) + RPi Server 기반 보안 시스템<br>• 소켓 서버 구축 및 DB/블루투스/웹 연동 총괄 |
-| **2025.07** | **[STM32 LCD Lib](https://github.com/StrongThrow/LCD1602_CustomDot)** | **👤 Solo Project**<br>• STM32 HAL 기반 LCD1602 커스텀 그래픽 라이브러리<br>• CGRAM 동적 할당 알고리즘 구현 및 배포 |
+| **2025.07** | **[STM32 LCD Lib](https://github.com/StrongThrow/LCD1602_Library_CustomDot)** | **👤 Solo Project**<br>• STM32 HAL 기반 LCD1602 커스텀 그래픽 라이브러리<br>• CGRAM 동적 할당 알고리즘 구현 및 배포 |
 
 <br>
 
