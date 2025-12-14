@@ -30,6 +30,8 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
 ### 🔌 Embedded Boards & MCU
@@ -39,6 +41,16 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
   <img src="https://img.shields.io/badge/ATmega128-Microchip-000000?style=for-the-badge&logo=microchip&logoColor=white">
+</div>
+
+### ⚙️ Firmware & System Software
+<div align="left">
+  <img src="https://img.shields.io/badge/Firmware-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BSP-1E90FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ARM Cortex-M-0091BD?style=for-the-badge&logo=arm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FreeRTOS-404040?style=for-the-badge&logo=freertos&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GStreamer-3776AB?style=for-the-badge&logo=gstreamer&logoColor=white"/>
 </div>
 
 ### ⚙️ Tools & Communication
@@ -51,6 +63,13 @@
   <img src="https://img.shields.io/badge/SPI-Black?style=for-the-badge">
 </div>
 
+### 🤖 Robotics & Vision
+<div align="left">
+  <img src="https://img.shields.io/badge/ROS-233F8D?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SLAM-2E8B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer Vision-0099FF?style=for-the-badge"/>
+</div>
 
 <br>
 
