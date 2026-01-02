@@ -76,7 +76,7 @@
 ## 🎓 Education & Experience
 
 * **한국공학대학교 전자공학과 졸업** (2018.03 ~ 2025.08)
-* **[Intel] 엣지 AI SW 아카데미 8기** (2025.07 ~ 2026.01 수강 중)
+* **[Intel] 엣지 AI SW 아카데미 8기** (2025.07 ~ 2026.01)
     * Edge AI, 딥러닝, 임베디드 시스템 심화 학습
 
 ### 📜 Certificates & Licenses
